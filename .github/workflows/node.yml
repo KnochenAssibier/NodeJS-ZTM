@@ -39,3 +39,5 @@ jobs:
       - run: npm run build --prefix client
 
       - run: npm test
+Install
+
